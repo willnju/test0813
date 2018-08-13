@@ -1,0 +1,1 @@
+print('''xu ming said, "I'm a pig!"''')
